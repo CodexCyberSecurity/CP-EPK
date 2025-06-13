@@ -1,4 +1,4 @@
-?php 
+<?php 
 $cpFunctions = new CPFunctions();
 $cpXplHelper = new CPackExploitHelper();
 $cpExploits = new CPackExploits();
